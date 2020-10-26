@@ -1,0 +1,24 @@
+.checkoutProduct {
+  display: flex;
+  margin: 40px 20px;
+
+  &__image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    margin-right: 20px;
+  }
+  &__title {
+    font-weight: bold;
+    font-size: 17px;
+  }
+  &__remove {
+    background-color: #f4d078;
+    border: 1px solid;
+    padding: 0 2px;
+    border-radius: 2px;
+    margin-top: 20px;
+    text-transform: capitalize;
+    border-color: #a88734 #9c7e31 #846a29;
+  }
+}

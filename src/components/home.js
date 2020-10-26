@@ -37,14 +37,14 @@ const Home = () => {
         <Product
           id={Math.floor(Math.random() * 100)}
           title="OnePlus Y Series 80 cm (32 inches) HD Ready LED Smart Android TV 32Y1 (Black) (2020 Model)"
-          price={"14,999.00"}
+          price={14999}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/817gj7pfUzL._SX522_.jpg"
         />
         <Product
           id={Math.floor(Math.random() * 100)}
           title="Apple iPhone 11 (64GB) - White"
-          price={"61,990"}
+          price={61990}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/51o5RmQtroL._SX679_.jpg"
         />
@@ -53,7 +53,7 @@ const Home = () => {
         <Product
           id={Math.floor(Math.random() * 100)}
           title="HP Pavilion Gaming 10th Gen Intel Core i5 Processor 16.1-inch FHD Gaming Laptop (8GB/1TB HDD + 256GB SSD/Windows 10/MS Office/NVIDIA GTX 1650 4GB/Shadow Black), 16-a0022TX"
-          price={"78,990.00"}
+          price={78990.0}
           rating={3}
           image="https://images-na.ssl-images-amazon.com/images/I/71FHcGAPevL._SX679_.jpg"
         />

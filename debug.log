@@ -4,3 +4,5 @@
 [1015/072450.691:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Kalph\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\fc7cc154-c4a4-47f5-94d1-f34e719dff5f: The system cannot find the path specified. (0x3)
 [1015/072450.693:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1015/192824.188:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/104006.894:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/203658.298:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

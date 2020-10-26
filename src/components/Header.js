@@ -8,14 +8,13 @@ import { useStateValue } from "../StateProvider";
 const Header = () => {
   const [{ basket }] = useStateValue();
 
-  console.log(basket);
   return (
     <nav className="header">
       <Link to="/">
         <img
           className="header__logo"
           src="http://pngimg.com/uploads/amazon/amazon_PNG25.png"
-          alt=""
+          alt="advertisment"
         />
       </Link>
       <div className="header__search">
